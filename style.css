@@ -1,0 +1,16 @@
+header 
+{
+  background-color: #0097A7;
+  color: white;
+  padding: 10px;
+}
+body
+{
+  font-family: 'Heebo', sans-serif;
+  padding: 0;
+}
+#info
+{
+  color: #0097A7;
+  margin: 10px;
+}
